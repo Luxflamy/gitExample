@@ -1,3 +1,8 @@
+role,NetID,LastName,FirstName
+<<<<<<< HEAD
 boss,xli2579,Xiangyi,Li
 employee,ychen2286,Brendon,Chen
 employee,jstump,Stump,Jordan
+=======
+boss,xli2579,xiangyi,Li
+>>>>>>> 176bdf6 (Create names.txt with a boss line.)
