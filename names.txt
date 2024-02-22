@@ -1,3 +1,4 @@
+role,NetID,LastName,FirstName
 boss,xli2579,Xiangyi,Li
 employee,ychen2286,Brendon,Chen
 employee,jstump,Stump,Jordan
